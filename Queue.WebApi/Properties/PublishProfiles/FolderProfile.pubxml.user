@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.WebApi\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-01-19T20:17:48.0123431Z;True|2024-01-14T17:55:34.6032650+03:00;True|2024-01-14T17:44:39.4775236+03:00;True|2024-01-13T23:12:29.7994673+03:00;True|2024-01-13T23:05:08.3180783+03:00;True|2024-01-13T16:43:26.9492188+03:00;True|2024-01-13T15:00:27.4353465+03:00;True|2024-01-13T00:34:47.4562950+03:00;True|2024-01-12T11:48:33.2923670+03:00;True|2024-01-12T09:48:23.2234761+03:00;True|2024-01-10T13:21:24.2804525+03:00;True|2024-01-09T15:23:33.8958106+03:00;True|2024-01-09T13:33:59.6764387+03:00;True|2024-01-07T16:50:54.9777101+03:00;True|2024-01-07T16:50:33.1146149+03:00;True|2024-01-07T15:30:33.5539579+03:00;True|2024-01-05T11:59:27.0845573+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

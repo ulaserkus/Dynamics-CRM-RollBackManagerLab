@@ -1,0 +1,32 @@
+﻿@page
+@model RollBackManagerLab.Web.Pages.Admin.VerifySignInModel
+@{
+    ViewData["Title"] = "Verify Sign In RollBackManagerLab";
+    ViewData["Description"] = "RollBackManagerLab Verify Sign In Page";
+}
+
+<main class="form-signin w-100 m-auto text-white">
+    <div class="col-md-6 mx-auto my-5">
+
+        @if (!Model.ModelState.IsValid && Model.ModelState[ErrorMessageContants.Key] != null && Model.ModelState[ErrorMessageContants.Key]?.Errors.Count > 0)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                <ul>
+                    @foreach (var error in Model.ModelState[ErrorMessageContants.Key].Errors)
+                    {
+                        <li>@error.ErrorMessage</li>
+                    }
+                </ul>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+        <form enctype="application/x-www-form-urlencoded" asp-antiforgery="true">
+            <h2 class="h3 mb-3 text-white fw-normal">Please Verify Your Sign In</h2>
+            <div class="form-floating my-2">
+                <input required type="text" name="EnteredText" class="form-control" id="floatingInput" placeholder="123456">
+                <label class="text-black" for="floatingInput">Verification Code</label>
+            </div>
+            <button class="btn btn-outline-light w-100 py-2" type="submit">Verify Sign in</button>
+        </form>
+    </div>
+</main>

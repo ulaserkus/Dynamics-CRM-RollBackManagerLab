@@ -1,0 +1,54 @@
+﻿@page
+@model RollBackManagerLab.Web.Pages.Admin.RegisterModel
+@{
+    ViewData["Title"] = "Register RollBackManagerLab";
+    ViewData["Description"] = "RollBackManagerLab Register Page";
+}
+
+<main class="form-signin w-100 m-auto text-white">
+    <div class="col-md-6 mx-auto my-5">
+        @if (!Model.ModelState.IsValid && Model.ModelState[ErrorMessageContants.Key] != null && Model.ModelState[ErrorMessageContants.Key]?.Errors.Count > 0)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                <ul>
+                    @foreach (var error in Model.ModelState[ErrorMessageContants.Key].Errors)
+                    {
+                        <li>@error.ErrorMessage</li>
+                    }
+                </ul>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+        <form enctype="application/x-www-form-urlencoded" asp-antiforgery="true">
+            <h2 class="h3 mb-3 fw-normal">Welcome, Please Register RollBackManagerLab</h2>
+            <div class="input-group form-floating my-2">
+                <span class="input-group-text">First and last name</span>
+                <input name="UserRequestApiDto.FirstName" required type="text" aria-label="First name" class="form-control">
+                <input name="UserRequestApiDto.LastName" required type="text" aria-label="Last name" class="form-control">
+            </div>
+            <div class="form-floating my-2">
+                <input name="UserRequestApiDto.BirthDate" required type="date" class="form-control" id="birthDate">
+                <label class="text-black" for="birthDate">Birth Date</label>
+            </div>
+            <div class="form-floating my-2">
+                <input name="UserRequestApiDto.CompanyName" required type="text" class="form-control" id="companyName" placeholder="Company">
+                <label class="text-black" for="companyName">Company Name</label>
+            </div>
+            <div class="form-floating my-2">
+                <input name="UserRequestApiDto.EmailAddress" required type="email" class="form-control" id="emailAddress" placeholder="name@example.com">
+                <label class="text-black" for="emailAddress">Email address</label>
+            </div>
+            <div class="form-floating my-2">
+                <input name="UserRequestApiDto.Password" required type="password" class="form-control" id="password" placeholder="Password">
+                <label class="text-black" for="password">Password</label>
+            </div>
+            <div class="input-group form-floating my-2">
+                <img id="captchaImage" src="~/captcha/@Model.Captcha.Image" alt="CAPTCHA Image">
+                <input name="EnteredCaptcha" required type="text" class="form-control" id="captchaInput" placeholder="Enter CAPTCHA">
+            </div>
+            <input type="hidden" name="Captcha.Text" value="@Model.Captcha.Text" />
+            <input type="hidden" name="Captcha.Image" value="@Model.Captcha.Image" />
+            <button class="btn btn-outline-light w-100 py-2" type="submit">Register</button>
+        </form>
+    </div>
+</main>

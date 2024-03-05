@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RollBackManagerLab.Web
+build_property.RootNamespace = RollBackManagerLab.Web
+build_property.ProjectDir = C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/Admin/Private/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJpdmF0ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/Admin/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/Admin/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cU2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/Admin/VerifyRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVmVyaWZ5UmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/Admin/VerifySignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVmVyaWZ5U2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/Error/404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JcNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/Error/500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JcNTAwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/Home/Documents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxEb2N1bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ulas.erkus/Desktop/Proje_Eren/RollBackManagerLab/RollBackManagerLab.Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

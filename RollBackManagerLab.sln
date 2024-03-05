@@ -1,0 +1,143 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{33FA8F9C-D32D-4505-8A09-C3050459BC93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "framework", "framework", "{85E43891-6D27-43C0-8DAF-F870313252EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{F0277CFB-A3DF-4E35-AA92-D5E03F4E38DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue.WebApi", "Queue.WebApi\Queue.WebApi.csproj", "{B3FB159B-E994-48E5-AF69-4637F89BAF8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue.Framework", "Queue.Framework\Queue.Framework.csproj", "{CCF71BA2-585B-4A7B-A46F-8800F17C5F31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.WebApi", "Identity.WebApi\Identity.WebApi.csproj", "{56AFBC93-0612-4686-96CC-19258391D252}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "shared", "shared", "{C95513D6-D6AD-4A68-914E-7F6BE294823A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{9D8F9432-3F69-4B9E-8FFF-EAC5808F7CA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.Framework", "Identity.Framework\Identity.Framework.csproj", "{F622784F-72EF-4DF6-866B-BD943C03E810}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dynamics_crm", "dynamics_crm", "{F9AF6F71-F71B-4964-A79D-ED3AA21818DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "custom_flow", "custom_flow", "{4F49F2E5-1CA9-4DC7-B2E6-7A8156F109A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gateway", "gateway", "{65C91D55-A455-4601-A7DD-F6C85D668EA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RollBackManagerLab.API", "RollBackManagerLab.API\RollBackManagerLab.API.csproj", "{68B71D2B-C951-4736-A5BD-047B6D1A5F5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webresource", "webresource", "{0F7C3794-E224-4336-B36B-F8EDE8E5DC4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{294FD489-CC2B-4A51-BF8D-7DD1FF5DAF41}"
+	ProjectSection(SolutionItems) = preProject
+		RollbackPage.html = RollbackPage.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{07A5C821-62DF-4F09-B0D7-F3BE81028683}"
+	ProjectSection(SolutionItems) = preProject
+		bootstrap.bundle.min.js = bootstrap.bundle.min.js
+		jquery-3.7.1.slim.min.js = jquery-3.7.1.slim.min.js
+		RollbackManagerConfiguration.js = RollbackManagerConfiguration.js
+		RollBackManagerLabRibbon.js = RollBackManagerLabRibbon.js
+		RollbackPage.js = RollbackPage.js
+		RollBackPageFetch.js = RollBackPageFetch.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{DCFF1B20-3D31-4EA6-AA3B-B7085CFFED02}"
+	ProjectSection(SolutionItems) = preProject
+		bootstrap.min.css = bootstrap.min.css
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollBackManagerLab.CustomFlow", "RollBackManagerLab.CustomFlow\RollBackManagerLab.CustomFlow.csproj", "{1D548E37-C387-45D9-8FEE-D13AA0F58245}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "web", "web", "{331E8BEB-792B-4642-BFF7-A4543B6C5449}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RollBackManagerLab.Web", "RollBackManagerLab.Web\RollBackManagerLab.Web.csproj", "{AFF5CCFA-83B8-4B2D-AF25-B2105EA2DEBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{EC2BB84B-4CD0-44F4-8400-D0B3D8FBC574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollBackManagerLab.CustomFlows.ConsoleApp", "RollBackManagerLab.CustomFlows.ConsoleApp\RollBackManagerLab.CustomFlows.ConsoleApp.csproj", "{79530E8E-4842-456D-97C9-16DE02688848}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solutions", "solutions", "{E5FCC16F-E815-45AB-A014-5682F4484911}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\RollBackManagerLabRibbon_1_0_0_0.zip = ..\..\..\Downloads\RollBackManagerLabRibbon_1_0_0_0.zip
+		..\..\..\Downloads\RollBackManagerLab_1_0_0_0.zip = ..\..\..\Downloads\RollBackManagerLab_1_0_0_0.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FB159B-E994-48E5-AF69-4637F89BAF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FB159B-E994-48E5-AF69-4637F89BAF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FB159B-E994-48E5-AF69-4637F89BAF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FB159B-E994-48E5-AF69-4637F89BAF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF71BA2-585B-4A7B-A46F-8800F17C5F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF71BA2-585B-4A7B-A46F-8800F17C5F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF71BA2-585B-4A7B-A46F-8800F17C5F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF71BA2-585B-4A7B-A46F-8800F17C5F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AFBC93-0612-4686-96CC-19258391D252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AFBC93-0612-4686-96CC-19258391D252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AFBC93-0612-4686-96CC-19258391D252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AFBC93-0612-4686-96CC-19258391D252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8F9432-3F69-4B9E-8FFF-EAC5808F7CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8F9432-3F69-4B9E-8FFF-EAC5808F7CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8F9432-3F69-4B9E-8FFF-EAC5808F7CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8F9432-3F69-4B9E-8FFF-EAC5808F7CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F622784F-72EF-4DF6-866B-BD943C03E810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F622784F-72EF-4DF6-866B-BD943C03E810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F622784F-72EF-4DF6-866B-BD943C03E810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F622784F-72EF-4DF6-866B-BD943C03E810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B71D2B-C951-4736-A5BD-047B6D1A5F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B71D2B-C951-4736-A5BD-047B6D1A5F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B71D2B-C951-4736-A5BD-047B6D1A5F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B71D2B-C951-4736-A5BD-047B6D1A5F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D548E37-C387-45D9-8FEE-D13AA0F58245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D548E37-C387-45D9-8FEE-D13AA0F58245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D548E37-C387-45D9-8FEE-D13AA0F58245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D548E37-C387-45D9-8FEE-D13AA0F58245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF5CCFA-83B8-4B2D-AF25-B2105EA2DEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF5CCFA-83B8-4B2D-AF25-B2105EA2DEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF5CCFA-83B8-4B2D-AF25-B2105EA2DEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF5CCFA-83B8-4B2D-AF25-B2105EA2DEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79530E8E-4842-456D-97C9-16DE02688848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79530E8E-4842-456D-97C9-16DE02688848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79530E8E-4842-456D-97C9-16DE02688848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79530E8E-4842-456D-97C9-16DE02688848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{85E43891-6D27-43C0-8DAF-F870313252EF} = {33FA8F9C-D32D-4505-8A09-C3050459BC93}
+		{F0277CFB-A3DF-4E35-AA92-D5E03F4E38DA} = {33FA8F9C-D32D-4505-8A09-C3050459BC93}
+		{B3FB159B-E994-48E5-AF69-4637F89BAF8C} = {F0277CFB-A3DF-4E35-AA92-D5E03F4E38DA}
+		{CCF71BA2-585B-4A7B-A46F-8800F17C5F31} = {85E43891-6D27-43C0-8DAF-F870313252EF}
+		{56AFBC93-0612-4686-96CC-19258391D252} = {F0277CFB-A3DF-4E35-AA92-D5E03F4E38DA}
+		{C95513D6-D6AD-4A68-914E-7F6BE294823A} = {33FA8F9C-D32D-4505-8A09-C3050459BC93}
+		{9D8F9432-3F69-4B9E-8FFF-EAC5808F7CA1} = {C95513D6-D6AD-4A68-914E-7F6BE294823A}
+		{F622784F-72EF-4DF6-866B-BD943C03E810} = {85E43891-6D27-43C0-8DAF-F870313252EF}
+		{F9AF6F71-F71B-4964-A79D-ED3AA21818DA} = {33FA8F9C-D32D-4505-8A09-C3050459BC93}
+		{4F49F2E5-1CA9-4DC7-B2E6-7A8156F109A4} = {F9AF6F71-F71B-4964-A79D-ED3AA21818DA}
+		{65C91D55-A455-4601-A7DD-F6C85D668EA7} = {33FA8F9C-D32D-4505-8A09-C3050459BC93}
+		{68B71D2B-C951-4736-A5BD-047B6D1A5F5B} = {65C91D55-A455-4601-A7DD-F6C85D668EA7}
+		{0F7C3794-E224-4336-B36B-F8EDE8E5DC4B} = {F9AF6F71-F71B-4964-A79D-ED3AA21818DA}
+		{294FD489-CC2B-4A51-BF8D-7DD1FF5DAF41} = {0F7C3794-E224-4336-B36B-F8EDE8E5DC4B}
+		{07A5C821-62DF-4F09-B0D7-F3BE81028683} = {0F7C3794-E224-4336-B36B-F8EDE8E5DC4B}
+		{DCFF1B20-3D31-4EA6-AA3B-B7085CFFED02} = {0F7C3794-E224-4336-B36B-F8EDE8E5DC4B}
+		{1D548E37-C387-45D9-8FEE-D13AA0F58245} = {4F49F2E5-1CA9-4DC7-B2E6-7A8156F109A4}
+		{331E8BEB-792B-4642-BFF7-A4543B6C5449} = {33FA8F9C-D32D-4505-8A09-C3050459BC93}
+		{AFF5CCFA-83B8-4B2D-AF25-B2105EA2DEBC} = {331E8BEB-792B-4642-BFF7-A4543B6C5449}
+		{EC2BB84B-4CD0-44F4-8400-D0B3D8FBC574} = {F9AF6F71-F71B-4964-A79D-ED3AA21818DA}
+		{79530E8E-4842-456D-97C9-16DE02688848} = {EC2BB84B-4CD0-44F4-8400-D0B3D8FBC574}
+		{E5FCC16F-E815-45AB-A014-5682F4484911} = {F9AF6F71-F71B-4964-A79D-ED3AA21818DA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04437FCC-908E-4BAF-9FE4-CD66C57E9630}
+	EndGlobalSection
+EndGlobal

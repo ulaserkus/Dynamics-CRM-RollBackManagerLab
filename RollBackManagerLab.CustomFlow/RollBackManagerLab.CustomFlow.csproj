@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1D548E37-C387-45D9-8FEE-D13AA0F58245}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RollBackManagerLab.CustomFlow</RootNamespace>
+    <AssemblyName>RollBackManagerLab.CustomFlow</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>sign.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Crm.Sdk.Proxy, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CrmSdk.CoreAssemblies.9.0.0.7\lib\net452\Microsoft.Crm.Sdk.Proxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xrm.Sdk, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CrmSdk.CoreAssemblies.9.0.0.7\lib\net452\Microsoft.Xrm.Sdk.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xrm.Sdk.Workflow, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CrmSdk.Workflow.9.0.0.5\lib\net452\Microsoft.Xrm.Sdk.Workflow.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Activities" />
+    <Reference Include="System.Activities.Presentation" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Workflow.Activities" />
+    <Reference Include="System.Workflow.ComponentModel" />
+    <Reference Include="System.Workflow.Runtime" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="API\Constants\ApiConstant.cs" />
+    <Compile Include="API\DTOs\ApiKeyDto.cs" />
+    <Compile Include="API\DTOs\EntityFieldApiDto.cs" />
+    <Compile Include="API\DTOs\EntityHistoryApiDto.cs" />
+    <Compile Include="API\DTOs\GetEntityHistoryApiDto.cs" />
+    <Compile Include="API\DTOs\LoginApiDto.cs" />
+    <Compile Include="API\DTOs\LoginApiResultDto.cs" />
+    <Compile Include="API\DTOs\GetUserApiKeyResultsDto.cs" />
+    <Compile Include="API\DTOs\RollbackDataDto.cs" />
+    <Compile Include="API\Services\IdentityApiHandler.cs" />
+    <Compile Include="API\Services\QueueApiHandler.cs" />
+    <Compile Include="CRM\Constants\Attribute.cs" />
+    <Compile Include="CRM\Constants\EntityAlias.cs" />
+    <Compile Include="CRM\Constants\EntityLogicalName.cs" />
+    <Compile Include="CRM\Constants\EntityRelationShip.cs" />
+    <Compile Include="CRM\Constants\OptionSetConstant.cs" />
+    <Compile Include="CRM\Handler\ApiKeyHandler.cs" />
+    <Compile Include="CRM\Handler\ConfigurationHandler.cs" />
+    <Compile Include="CRM\Handler\ConfigurationUserHandler.cs" />
+    <Compile Include="CRM\Handler\PluginTypeHandler.cs" />
+    <Compile Include="CRM\Handler\RequestHandler.cs" />
+    <Compile Include="CRM\Handler\RoleHandler.cs" />
+    <Compile Include="CRM\Handler\SdkMessageFilterHandler.cs" />
+    <Compile Include="CRM\Handler\SdkMessageHandler.cs" />
+    <Compile Include="CRM\Handler\SdkMessageProcessingHandler.cs" />
+    <Compile Include="CRM\Handler\SystemUserRoleHandler.cs" />
+    <Compile Include="CRM\Validation\ApiKeyValidation.cs" />
+    <Compile Include="CRM\Validation\ConfigurationValidation.cs" />
+    <Compile Include="Extension\CrmExtension.cs" />
+    <Compile Include="Flows\ConfigurationUserManageRoleFlow.cs" />
+    <Compile Include="Flows\WhenTransactionTypeChangedUpdateStepFlow.cs" />
+    <Compile Include="Plugins\WhenApiKeyCreateCheckPreValidPlugin.cs" />
+    <Compile Include="Flows\WhenConfigurationCreatedAddSdkStep.cs" />
+    <Compile Include="Flows\WhenConfigurationDeletedRemoveSdkStep.cs" />
+    <Compile Include="Flows\WhenConfigurationStateChangedFlow.cs" />
+    <Compile Include="Plugins\WhenApiKeyCreatedPostAsync.cs" />
+    <Compile Include="Plugins\WhenConfigurationUserCreateCheckExisting.cs" />
+    <Compile Include="Plugins\WhenRecordDeletePrePlugin.cs" />
+    <Compile Include="Plugins\WhenRecordUpdatePrePlugin.cs" />
+    <Compile Include="Extension\JsonExtension.cs" />
+    <Compile Include="CommonOperations.cs" />
+    <Compile Include="Plugins\WhenRequestCreatedPostAsyncPlugin.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="sign.snk" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

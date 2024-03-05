@@ -1,0 +1,85 @@
+﻿<!doctype html>
+<html lang="en" data-bs-theme="auto">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content=@ViewData["Description"]>
+    <meta name="keywords" content="rollbackmanagerlab, dynamics365, backup, CRM" />
+    <meta name="author" content="Ulaş Hasan Erkuş" />
+    <meta name="robots" content="index, home, admin, sign" />
+
+    <meta http-equiv="Strict-Transport-Security" content="max-age=31536000; includeSubDomains">
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+    <meta http-equiv="X-XSS-Protection" content="1; mode=block">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self';connect-src 'self' ;img-src 'self' https://fastly.picsum.photos/ data:">
+    <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin">
+    <meta http-equiv="Feature-Policy" content="geolocation 'self'; microphone 'none'">
+
+    <title>@ViewData["Title"]</title>
+
+    <link rel="canonical" href="https://rollbackmanagerlab.co/" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/css/site.css" rel="stylesheet">
+
+</head>
+<body class="bg-dark container-fluid">
+    <nav class="navbar navbar-dark navbar-expand-lg bg-dark">
+
+        <h1 class="navbar-brand" href="#">RollBackManagerLab</h1>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto px-2">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" asp-page="/Home/Index">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" asp-page="/Home/Documents">Docs</a>
+                </li>
+
+
+                @if (User.Identity == null || !User.Identity.IsAuthenticated)
+                {
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" asp-page="/Admin/Register">Register</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" asp-page="/Admin/SignIn">Sign In</a>
+                    </li>
+                }
+
+
+                @if (User.Identity != null && User.Identity.IsAuthenticated)
+                {
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" asp-page="/Admin/Private/Index">Dashboard</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <form method="post" asp-page="/Admin/Private/Index" asp-page-handler="SignOut">
+                            <button type="submit" class="nav-link active btn btn-link">Sign Out</button>
+                        </form>
+                    </li>
+                }
+
+
+            </ul>
+        </div>
+
+    </nav>
+
+    @RenderBody();
+
+    <footer class="footer bg-secondary fixed-bottom py-3">
+        <div class="container text-center">
+            <span class="text-white">This app is completely free forever. You just need to register. @@2024</span>
+        </div>
+    </footer>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

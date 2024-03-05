@@ -1,0 +1,117 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Manage RollBackManagerLab";
+    ViewData["Description"] = "RollBackManagerLab Admin Page";
+}
+
+
+<div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+    <div class="toast-header">
+        <strong class="me-auto">RollBackManagerLab</strong>
+        <small>Just now</small>
+        <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+    </div>
+    <div class="toast-body">
+        Welcome @(User?.Identity?.Name ?? ""), please feel free to reach out to us through the 'contact us' section; we would be happy to assist you.
+    </div>
+</div>
+
+<div class="row">
+    <!-- Sol taraftaki menü -->
+    <div class="col-md-3">
+        <div class="list-group  sticky-top">
+            <a class="list-group-item text-white bg-secondary" href="#stats">Stats</a>
+            <a class="list-group-item text-white bg-secondary" href="#apiKeys">Api Keys</a>
+            <a class="list-group-item text-white bg-secondary" href="#solutions">Solutions</a>
+            <a class="list-group-item text-white bg-secondary" href="#contactUs">Contact Us</a>
+        </div>
+    </div>
+
+    <!-- Sağ taraftaki kart -->
+    <div class="col-md-9">
+
+        <div id="stats" class="card-group">
+            <div class="card text-white  bg-primary mb-3" style="max-width: 18rem;">
+                <div class="card-header">Header</div>
+                <div class="card-body">
+                    <h5 class="card-title">Info card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+            <div class="card text-white  bg-warning mb-3" style="max-width: 18rem;">
+                <div class="card-header">Header</div>
+                <div class="card-body">
+                    <h5 class="card-title">Info card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+            <div class="card text-white  bg-success mb-3" style="max-width: 18rem;">
+                <div class="card-header">Header</div>
+                <div class="card-body">
+                    <h5 class="card-title">Info card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+        </div>
+
+        <div id="apiKeys" class="card bg-secondary text-white">
+            <div class="card-header">
+                Api Keys
+                <button id="createButton" class="btn btn-outline-light btn-sm float-right">Create Key</button>
+            </div>
+            <div class="card-body text-white">
+                <table class="table">
+                    <thead class="thead-light">
+                        <tr>
+                            <th scope="col">Key</th>
+                            <th scope="col">Expire Date</th>
+                            <th scope="col">Operation</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @if (Model.ApiKeys != null)
+                        {
+                            @foreach (var apiKey in Model.ApiKeys)
+                            {
+                                <tr>
+                                    <td>@apiKey.Key</td>
+                                    <td>@apiKey.ExpiresInUTC.ToLocalTime()</td>
+                                    <td><a class="link-danger" asp-page-handler="DeleteKey">Delete Key</a></td>
+                                </tr>
+
+                            }
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div id="solutions" class="card mt-2 bg-secondary text-white">
+            <div class="card-header">
+                Solutions
+            </div>
+            <div class="card-body">
+                <blockquote class="blockquote mb-0">
+                    <p>A well-known quote, contained in a blockquote element.</p>
+                    <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+                </blockquote>
+            </div>
+        </div>
+
+        <div id="contactUs" class="card mt-2 bg-secondary text-white">
+            <div class="card-header">
+                Contact Us &amp; Support
+            </div>
+            <div class="card-body">
+                <blockquote class="blockquote mb-0">
+                    <p>A well-known quote, contained in a blockquote element.</p>
+                    <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+                </blockquote>
+            </div>
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fsrNalyXfVpV6CI5fi184bPONeAQ7Vn+fEAKFK1xo10=",
+  "Source": "Identity.WebApi",
+  "BasePath": "_content/Identity.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

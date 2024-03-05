@@ -1,0 +1,16 @@
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\bin\Release\net6.0\Identity.Framework.deps.json
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\bin\Release\net6.0\Identity.Framework.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\bin\Release\net6.0\Identity.Framework.pdb
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\bin\Release\net6.0\Shared.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\bin\Release\net6.0\Shared.pdb
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\obj\Release\net6.0\Identity.Framework.csproj.AssemblyReference.cache
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\obj\Release\net6.0\Identity.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\obj\Release\net6.0\Identity.Framework.AssemblyInfoInputs.cache
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\obj\Release\net6.0\Identity.Framework.AssemblyInfo.cs
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\obj\Release\net6.0\Identity.Framework.csproj.CoreCompileInputs.cache
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\obj\Release\net6.0\Identity.Framework.csproj.CopyComplete
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\obj\Release\net6.0\Identity.Framework.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\obj\Release\net6.0\refint\Identity.Framework.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\obj\Release\net6.0\Identity.Framework.pdb
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\obj\Release\net6.0\ref\Identity.Framework.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Identity.Framework\obj\Release\net6.0\Identity.Framework.sourcelink.json

@@ -1,0 +1,817 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\0A4U1M.png",
+      "PackagePath": "staticwebassets\\captcha\\0A4U1M.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\0PDBWW.png",
+      "PackagePath": "staticwebassets\\captcha\\0PDBWW.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\1A7OCO.png",
+      "PackagePath": "staticwebassets\\captcha\\1A7OCO.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\1OBATK.png",
+      "PackagePath": "staticwebassets\\captcha\\1OBATK.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\1RBN8V.png",
+      "PackagePath": "staticwebassets\\captcha\\1RBN8V.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\24WITA.png",
+      "PackagePath": "staticwebassets\\captcha\\24WITA.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\2D0BNK.png",
+      "PackagePath": "staticwebassets\\captcha\\2D0BNK.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\2O2L3H.png",
+      "PackagePath": "staticwebassets\\captcha\\2O2L3H.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\31ZBWH.png",
+      "PackagePath": "staticwebassets\\captcha\\31ZBWH.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\3TFECT.png",
+      "PackagePath": "staticwebassets\\captcha\\3TFECT.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\43WK6I.png",
+      "PackagePath": "staticwebassets\\captcha\\43WK6I.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\4W0X98.png",
+      "PackagePath": "staticwebassets\\captcha\\4W0X98.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\557KPY.png",
+      "PackagePath": "staticwebassets\\captcha\\557KPY.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\6BJZQN.png",
+      "PackagePath": "staticwebassets\\captcha\\6BJZQN.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\6F50MN.png",
+      "PackagePath": "staticwebassets\\captcha\\6F50MN.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\6M6LDW.png",
+      "PackagePath": "staticwebassets\\captcha\\6M6LDW.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\6MJ1QL.png",
+      "PackagePath": "staticwebassets\\captcha\\6MJ1QL.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\6OGTD3.png",
+      "PackagePath": "staticwebassets\\captcha\\6OGTD3.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\6PC6WK.png",
+      "PackagePath": "staticwebassets\\captcha\\6PC6WK.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\6UPNUX.png",
+      "PackagePath": "staticwebassets\\captcha\\6UPNUX.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\6ZSOWF.png",
+      "PackagePath": "staticwebassets\\captcha\\6ZSOWF.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\73QN9B.png",
+      "PackagePath": "staticwebassets\\captcha\\73QN9B.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\7NLB70.png",
+      "PackagePath": "staticwebassets\\captcha\\7NLB70.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\7QM6M9.png",
+      "PackagePath": "staticwebassets\\captcha\\7QM6M9.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\7UBITI.png",
+      "PackagePath": "staticwebassets\\captcha\\7UBITI.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\7ZUSNX.png",
+      "PackagePath": "staticwebassets\\captcha\\7ZUSNX.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\8G8RD4.png",
+      "PackagePath": "staticwebassets\\captcha\\8G8RD4.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\8HQMJQ.png",
+      "PackagePath": "staticwebassets\\captcha\\8HQMJQ.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\8PF91D.png",
+      "PackagePath": "staticwebassets\\captcha\\8PF91D.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\91XQHX.png",
+      "PackagePath": "staticwebassets\\captcha\\91XQHX.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\935K85.png",
+      "PackagePath": "staticwebassets\\captcha\\935K85.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\9CZ2XR.png",
+      "PackagePath": "staticwebassets\\captcha\\9CZ2XR.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\A1FZX6.png",
+      "PackagePath": "staticwebassets\\captcha\\A1FZX6.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\AKIHH5.png",
+      "PackagePath": "staticwebassets\\captcha\\AKIHH5.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\ATI3YG.png",
+      "PackagePath": "staticwebassets\\captcha\\ATI3YG.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\AU6YDU.png",
+      "PackagePath": "staticwebassets\\captcha\\AU6YDU.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\B3Z8DC.png",
+      "PackagePath": "staticwebassets\\captcha\\B3Z8DC.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\BDN811.png",
+      "PackagePath": "staticwebassets\\captcha\\BDN811.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\BEEVI7.png",
+      "PackagePath": "staticwebassets\\captcha\\BEEVI7.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\BEOMPZ.png",
+      "PackagePath": "staticwebassets\\captcha\\BEOMPZ.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\BP6T7Q.png",
+      "PackagePath": "staticwebassets\\captcha\\BP6T7Q.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\C0CXJ5.png",
+      "PackagePath": "staticwebassets\\captcha\\C0CXJ5.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\C6G4HO.png",
+      "PackagePath": "staticwebassets\\captcha\\C6G4HO.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\CQWLBZ.png",
+      "PackagePath": "staticwebassets\\captcha\\CQWLBZ.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\DB9NSV.png",
+      "PackagePath": "staticwebassets\\captcha\\DB9NSV.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\DU4SXN.png",
+      "PackagePath": "staticwebassets\\captcha\\DU4SXN.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\E3DBWN.png",
+      "PackagePath": "staticwebassets\\captcha\\E3DBWN.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\E6GL9C.png",
+      "PackagePath": "staticwebassets\\captcha\\E6GL9C.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\E74B7B.png",
+      "PackagePath": "staticwebassets\\captcha\\E74B7B.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\ENXJQV.png",
+      "PackagePath": "staticwebassets\\captcha\\ENXJQV.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\EONU62.png",
+      "PackagePath": "staticwebassets\\captcha\\EONU62.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\EWJ3BN.png",
+      "PackagePath": "staticwebassets\\captcha\\EWJ3BN.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\F0GTBK.png",
+      "PackagePath": "staticwebassets\\captcha\\F0GTBK.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\F3O1OH.png",
+      "PackagePath": "staticwebassets\\captcha\\F3O1OH.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\F4HKDG.png",
+      "PackagePath": "staticwebassets\\captcha\\F4HKDG.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\FBCI1P.png",
+      "PackagePath": "staticwebassets\\captcha\\FBCI1P.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\FHFDKY.png",
+      "PackagePath": "staticwebassets\\captcha\\FHFDKY.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\FONYR7.png",
+      "PackagePath": "staticwebassets\\captcha\\FONYR7.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\FSY4N4.png",
+      "PackagePath": "staticwebassets\\captcha\\FSY4N4.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\G26D91.png",
+      "PackagePath": "staticwebassets\\captcha\\G26D91.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\GI03CC.png",
+      "PackagePath": "staticwebassets\\captcha\\GI03CC.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\GKP9NH.png",
+      "PackagePath": "staticwebassets\\captcha\\GKP9NH.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\GKX6E8.png",
+      "PackagePath": "staticwebassets\\captcha\\GKX6E8.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\GLYBYT.png",
+      "PackagePath": "staticwebassets\\captcha\\GLYBYT.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\H6EWIH.png",
+      "PackagePath": "staticwebassets\\captcha\\H6EWIH.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\H7BU2I.png",
+      "PackagePath": "staticwebassets\\captcha\\H7BU2I.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\HE2RX9.png",
+      "PackagePath": "staticwebassets\\captcha\\HE2RX9.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\HX3LM3.png",
+      "PackagePath": "staticwebassets\\captcha\\HX3LM3.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\HZ996A.png",
+      "PackagePath": "staticwebassets\\captcha\\HZ996A.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\I0ZUYK.png",
+      "PackagePath": "staticwebassets\\captcha\\I0ZUYK.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\IBYWTB.png",
+      "PackagePath": "staticwebassets\\captcha\\IBYWTB.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\IKBAZ8.png",
+      "PackagePath": "staticwebassets\\captcha\\IKBAZ8.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\IKMBOM.png",
+      "PackagePath": "staticwebassets\\captcha\\IKMBOM.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\IQ320Z.png",
+      "PackagePath": "staticwebassets\\captcha\\IQ320Z.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\IS7UU9.png",
+      "PackagePath": "staticwebassets\\captcha\\IS7UU9.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\IULL92.png",
+      "PackagePath": "staticwebassets\\captcha\\IULL92.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\IWX074.png",
+      "PackagePath": "staticwebassets\\captcha\\IWX074.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\IZXZJD.png",
+      "PackagePath": "staticwebassets\\captcha\\IZXZJD.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\J1ZR7G.png",
+      "PackagePath": "staticwebassets\\captcha\\J1ZR7G.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\J5X0JG.png",
+      "PackagePath": "staticwebassets\\captcha\\J5X0JG.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\KM297F.png",
+      "PackagePath": "staticwebassets\\captcha\\KM297F.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\KMJRIA.png",
+      "PackagePath": "staticwebassets\\captcha\\KMJRIA.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\KQ557A.png",
+      "PackagePath": "staticwebassets\\captcha\\KQ557A.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\KQJOWV.png",
+      "PackagePath": "staticwebassets\\captcha\\KQJOWV.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\L4ZQTR.png",
+      "PackagePath": "staticwebassets\\captcha\\L4ZQTR.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\L7IIC9.png",
+      "PackagePath": "staticwebassets\\captcha\\L7IIC9.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\LK9RV4.png",
+      "PackagePath": "staticwebassets\\captcha\\LK9RV4.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\M0TUNQ.png",
+      "PackagePath": "staticwebassets\\captcha\\M0TUNQ.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\M7N5JG.png",
+      "PackagePath": "staticwebassets\\captcha\\M7N5JG.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\NTG6CS.png",
+      "PackagePath": "staticwebassets\\captcha\\NTG6CS.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\O7CRQP.png",
+      "PackagePath": "staticwebassets\\captcha\\O7CRQP.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\OQUO5B.png",
+      "PackagePath": "staticwebassets\\captcha\\OQUO5B.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\OSN7Y8.png",
+      "PackagePath": "staticwebassets\\captcha\\OSN7Y8.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\P9ZHNC.png",
+      "PackagePath": "staticwebassets\\captcha\\P9ZHNC.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\PD015H.png",
+      "PackagePath": "staticwebassets\\captcha\\PD015H.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\PJR81M.png",
+      "PackagePath": "staticwebassets\\captcha\\PJR81M.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\PMKJOM.png",
+      "PackagePath": "staticwebassets\\captcha\\PMKJOM.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\PT1ETF.png",
+      "PackagePath": "staticwebassets\\captcha\\PT1ETF.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\PUGLN3.png",
+      "PackagePath": "staticwebassets\\captcha\\PUGLN3.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\Q70Y0Q.png",
+      "PackagePath": "staticwebassets\\captcha\\Q70Y0Q.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\QGJJ96.png",
+      "PackagePath": "staticwebassets\\captcha\\QGJJ96.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\QOGGCA.png",
+      "PackagePath": "staticwebassets\\captcha\\QOGGCA.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\R0V48Z.png",
+      "PackagePath": "staticwebassets\\captcha\\R0V48Z.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\RD8P94.png",
+      "PackagePath": "staticwebassets\\captcha\\RD8P94.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\RP34M9.png",
+      "PackagePath": "staticwebassets\\captcha\\RP34M9.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\RT3RNU.png",
+      "PackagePath": "staticwebassets\\captcha\\RT3RNU.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\RVZ6N6.png",
+      "PackagePath": "staticwebassets\\captcha\\RVZ6N6.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\SHFAAY.png",
+      "PackagePath": "staticwebassets\\captcha\\SHFAAY.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\SR0JOH.png",
+      "PackagePath": "staticwebassets\\captcha\\SR0JOH.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\SS77CY.png",
+      "PackagePath": "staticwebassets\\captcha\\SS77CY.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\SW88J6.png",
+      "PackagePath": "staticwebassets\\captcha\\SW88J6.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\SYBSH1.png",
+      "PackagePath": "staticwebassets\\captcha\\SYBSH1.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\TG5QRL.png",
+      "PackagePath": "staticwebassets\\captcha\\TG5QRL.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\TNZ8E9.png",
+      "PackagePath": "staticwebassets\\captcha\\TNZ8E9.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\V9M9PC.png",
+      "PackagePath": "staticwebassets\\captcha\\V9M9PC.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\VFULK9.png",
+      "PackagePath": "staticwebassets\\captcha\\VFULK9.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\VFV7T6.png",
+      "PackagePath": "staticwebassets\\captcha\\VFV7T6.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\VJJ5H0.png",
+      "PackagePath": "staticwebassets\\captcha\\VJJ5H0.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\VN93YM.png",
+      "PackagePath": "staticwebassets\\captcha\\VN93YM.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\VQXBBF.png",
+      "PackagePath": "staticwebassets\\captcha\\VQXBBF.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\VTMUS8.png",
+      "PackagePath": "staticwebassets\\captcha\\VTMUS8.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\W2KAZC.png",
+      "PackagePath": "staticwebassets\\captcha\\W2KAZC.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\WESW0E.png",
+      "PackagePath": "staticwebassets\\captcha\\WESW0E.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\WIWOHR.png",
+      "PackagePath": "staticwebassets\\captcha\\WIWOHR.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\WP7AFC.png",
+      "PackagePath": "staticwebassets\\captcha\\WP7AFC.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\XASRAV.png",
+      "PackagePath": "staticwebassets\\captcha\\XASRAV.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\XB765M.png",
+      "PackagePath": "staticwebassets\\captcha\\XB765M.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\XHSHMW.png",
+      "PackagePath": "staticwebassets\\captcha\\XHSHMW.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\XJRB0Z.png",
+      "PackagePath": "staticwebassets\\captcha\\XJRB0Z.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\XLEC3R.png",
+      "PackagePath": "staticwebassets\\captcha\\XLEC3R.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\XR2V2Q.png",
+      "PackagePath": "staticwebassets\\captcha\\XR2V2Q.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\Y0KHWD.png",
+      "PackagePath": "staticwebassets\\captcha\\Y0KHWD.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\YI8Y7W.png",
+      "PackagePath": "staticwebassets\\captcha\\YI8Y7W.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\YU4KFD.png",
+      "PackagePath": "staticwebassets\\captcha\\YU4KFD.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\ZDARKR.png",
+      "PackagePath": "staticwebassets\\captcha\\ZDARKR.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\captcha\\ZKB37V.png",
+      "PackagePath": "staticwebassets\\captcha\\ZKB37V.png"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\html\\otp.html",
+      "PackagePath": "staticwebassets\\html\\otp.html"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\html\\registerotp.html",
+      "PackagePath": "staticwebassets\\html\\registerotp.html"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\html\\signinotp.html",
+      "PackagePath": "staticwebassets\\html\\signinotp.html"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulas.erkus\\Desktop\\Proje_Eren\\RollBackManagerLab\\RollBackManagerLab.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RollBackManagerLab.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RollBackManagerLab.Web.props",
+      "PackagePath": "build\\RollBackManagerLab.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RollBackManagerLab.Web.props",
+      "PackagePath": "buildMultiTargeting\\RollBackManagerLab.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RollBackManagerLab.Web.props",
+      "PackagePath": "buildTransitive\\RollBackManagerLab.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

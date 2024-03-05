@@ -1,0 +1,13 @@
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\bin\Debug\RollBackManagerLab.CustomFlow.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\bin\Debug\RollBackManagerLab.CustomFlow.pdb
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\obj\Debug\RollBackManagerLab.CustomFlow.csproj.AssemblyReference.cache
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\obj\Debug\RollBackManagerLab.CustomFlow.csproj.CoreCompileInputs.cache
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\obj\Debug\RollBackManagerLab.CustomFlow.csproj.CopyComplete
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\obj\Debug\RollBackManagerLab.CustomFlow.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\RollBackManagerLab.CustomFlow\obj\Debug\RollBackManagerLab.CustomFlow.pdb

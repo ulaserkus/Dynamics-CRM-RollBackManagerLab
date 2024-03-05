@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>RollBackManagerLab</title>
+    <link rel="stylesheet" href="./bootstrap.min.css" type="text/css" />
+    <!--<link rel="stylesheet" href="/WebResources/cr70c_bootstrap.min.css" type="text/css" />-->
+</head>
+<body onload="pageOnload()">
+
+    <table class="table" id="data-table">
+        <!-- Tablo içeriği burada dinamik olarak oluşturulacak -->
+    </table>
+
+    <nav aria-label="Page navigation">
+        <ul class="pagination ml-1" id="pagination-container">
+            <!-- Sayfa numaraları ve oklar burada dinamik olarak oluşturulacak -->
+        </ul>
+    </nav>
+
+    <div id="attributesModal" class="modal fade" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <input type="hidden" id="hiddenIdModal" value="">
+                    <h5 class="modal-title" id="exampleModalLabel">Attributes</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="attributesTableBody">
+                    <!-- Your modal body content here -->
+                </div>
+                <div class="modal-footer">
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <button type="button" class="btn btn-danger" onclick="confirmDelete()">Delete</button>
+                        <button type="button" class="btn btn-secondary" onclick="confirmRollback()">Rollback</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="loadingSpinner" class="d-flex mx-2 align-items-center">
+        <div class="spinner-border" role="status" aria-hidden="true"></div>
+        <strong>Loading...</strong>
+    </div>
+
+    <!--<script src="./jquery-3.7.1.slim.min.js" type="text/javascript"></script>
+    <script src="./bootstrap.bundle.min.js" type="text/javascript"></script>
+    <script src="./RollbackPageFetch.js" type="text/javascript"></script>
+    <script src="./RollbackPage.js" type="text/javascript"></script>-->
+
+    <!--LIVE-->
+    <script src="/WebResources/cr70c_jquery-3.7.1.slim.min.js" type="text/javascript"></script>
+    <script src="/WebResources/cr70c_bootstrap.bundle.min.js" type="text/javascript"></script>
+    <script src="/WebResources/cr70c_RollbackPageFetch.js" type="text/javascript"></script>
+    <script src="/WebResources/cr70c_RollbackPage.js" type="text/javascript"></script>
+</body>
+</html>

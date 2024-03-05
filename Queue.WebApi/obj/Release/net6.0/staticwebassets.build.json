@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5Udj8vFFtVsSmSu4OchCmsgOMjoGp1zLIzqLYdZKprU=",
+  "Source": "Queue.WebApi",
+  "BasePath": "_content/Queue.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

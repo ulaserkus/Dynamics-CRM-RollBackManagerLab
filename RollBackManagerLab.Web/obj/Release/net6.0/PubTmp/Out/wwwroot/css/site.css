@@ -1,0 +1,58 @@
+﻿html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.error-div {
+    text-align: center;
+}
+
+.error-code {
+    font-size: 10rem;
+    font-weight: bold;
+}
+
+.error-message {
+    font-size: 2rem;
+}
+
+.back-to-home {
+    margin-top: 30px;
+    color: #fff;
+    text-decoration: none;
+}
+
+    .back-to-home:hover {
+        text-decoration: underline;
+    }
+
+.carousel .carousel-item {
+    height: 500px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+    object-fit: cover;
+}
+
+.form-control:focus {
+    border-color: white;
+    box-shadow: 0 0 0 0.2rem white;
+}

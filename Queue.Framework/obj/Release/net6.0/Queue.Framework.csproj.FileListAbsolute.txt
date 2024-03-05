@@ -1,0 +1,16 @@
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\bin\Release\net6.0\Queue.Framework.deps.json
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\bin\Release\net6.0\Queue.Framework.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\bin\Release\net6.0\Queue.Framework.pdb
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\bin\Release\net6.0\Shared.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\bin\Release\net6.0\Shared.pdb
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\obj\Release\net6.0\Queue.Framework.csproj.AssemblyReference.cache
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\obj\Release\net6.0\Queue.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\obj\Release\net6.0\Queue.Framework.AssemblyInfoInputs.cache
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\obj\Release\net6.0\Queue.Framework.AssemblyInfo.cs
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\obj\Release\net6.0\Queue.Framework.csproj.CoreCompileInputs.cache
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\obj\Release\net6.0\Queue.Framework.csproj.CopyComplete
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\obj\Release\net6.0\Queue.Framework.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\obj\Release\net6.0\refint\Queue.Framework.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\obj\Release\net6.0\Queue.Framework.pdb
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\obj\Release\net6.0\ref\Queue.Framework.dll
+C:\Users\ulas.erkus\Desktop\Proje_Eren\RollBackManagerLab\Queue.Framework\obj\Release\net6.0\Queue.Framework.sourcelink.json

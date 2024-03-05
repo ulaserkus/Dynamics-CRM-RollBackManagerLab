@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rQQfOonFCNgGr6565K1PxUJM7xAYgLqMmIO/4m22l40=",
+  "Source": "Identity.WebApi",
+  "BasePath": "_content/Identity.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
